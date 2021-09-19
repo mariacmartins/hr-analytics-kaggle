@@ -1,2 +1,2 @@
-# hr-analytics-kaggle
-EDA e Machine Learning para análises de RH - Desafio do Kaggle (Dataset IBM)
+# HR analytics - Kaggle challenge
+Análise Exploratória e testes de modelos de Machine Learning para análises de RH - Dataset público da IBM disponível no Kaggle.
